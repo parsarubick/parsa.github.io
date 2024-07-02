@@ -1,1 +1,0 @@
-# parsa.github.io
