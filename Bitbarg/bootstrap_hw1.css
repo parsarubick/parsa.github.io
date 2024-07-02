@@ -1,0 +1,52 @@
+@font-face{
+    font-family: binazanin;
+    src: url('B-NAZANIN.TTF');
+    
+}
+
+.navbar-brand:hover{
+    text-align: center;
+    background-color: rgba(157, 255, 240, 0.2);
+    padding: 3px;
+    transition: 1s;
+}
+.nav-item:hover{
+    text-align: center;
+    background-color: rgba(157, 255, 240, 0.2);
+    padding: 3px;
+    transition: 1s;
+
+}
+.button{
+    width: 300px;
+}
+.image{
+   margin-left: 50px;
+   cursor: pointer;
+}
+.topic{
+    text-align: center;
+
+}
+.bell{
+    text-align: center;
+    margin-left: 45px;
+    cursor: pointer;
+}
+.btn-group{
+
+    margin-right: 570px;
+    
+}
+.down{
+    font-size: 0.8cm;
+    margin-right: 750px;
+}
+.chat{
+    cursor: pointer;
+    font-size: 1cm;
+    margin-right: 1400px;
+}
+.button2{
+    margin-right: 725px;
+}

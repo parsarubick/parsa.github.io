@@ -1,0 +1,36 @@
+.navbar-brand:hover{
+    text-align: center;
+    background-color: rgba(157, 255, 240, 0.2);
+    padding: 3px;
+    transition: 1s;
+}
+.nav-item:hover{
+    text-align: center;
+    background-color: rgba(157, 255, 240, 0.2);
+    padding: 3px;
+    transition: 1s;
+
+}
+.button{
+    margin-left: 20px;
+    width: 300px;
+}
+.image{
+   margin-left: 50px;
+   cursor: pointer;
+}
+.topic{
+    text-align: center;
+
+}
+.bell{
+    text-align: center;
+    margin-left: 45px;
+    cursor: pointer;
+}
+.btn-group{
+    text-align: center;
+    margin-right: 500px;
+    border-top-right-radius: 10px;
+    
+}

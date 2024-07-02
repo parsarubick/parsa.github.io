@@ -1,0 +1,29 @@
+.cbutton{
+    background-color: rgb(220, 220, 220);
+    padding: 5px 15px;
+    border: 1px solid rgb(221, 212, 212);
+    border-radius: 15px;
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    
+}
+.div_button{
+    text-align: center;
+
+}
+
+.cbutton2{
+    background-color: rgb(220, 220, 220);
+    padding: 3px 2px;
+    border: 1px solid rgb(221, 212, 212);
+    border-radius: 15px;
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    
+}
+.div_button2{
+    text-align: center;
+
+}
